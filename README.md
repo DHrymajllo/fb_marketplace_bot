@@ -1,5 +1,9 @@
 # Facebook Marketplace Bot
 
+<p align="center">
+  <img src="https://i.postimg.cc/rsFn1BbS/Adobe-Express-file.png" />
+</p>
+
 This bot searches for listings (e.g. bikes) in the Łódź area and sends a message to sellers on Facebook Marketplace.
 
 ## 🔧 Requirements
@@ -31,3 +35,10 @@ This bot searches for listings (e.g. bikes) in the Łódź area and sends a mess
    ```
 
 3. Log in manually to Facebook when prompted.
+
+
+
+https://github.com/user-attachments/assets/7940d3f1-99e3-4b29-bd2b-589fc8641368
+
+
+
